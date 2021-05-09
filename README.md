@@ -1,5 +1,11 @@
-# javaLab
-Nour El Houda OUNANA et Souhaila KESBI
-6/05/2021
-CPO
+# CPO - Graph formalism javaLab 6/05/2021
+-----------------
+by __OUNANA Nour El Houda et KESBI Souhaila__
+
+-----------------
+In this Lab session, we are creating a __graph library__ (in the graph.jar file) that has :
+  + Some classes for graph representation.
+  + A javadoc documentation of the src files.
+
+-----------------
 Polytech Montpellier
